@@ -14,5 +14,6 @@ public class GitTest {
         System.out.println("hello world");
         System.out.println("hot-fix");
         System.out.println("master分支修改");
+        System.out.println("hot-fix修改");
     }
 }
